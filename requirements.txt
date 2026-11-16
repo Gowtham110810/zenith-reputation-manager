@@ -1,0 +1,6 @@
+google-genai
+streamlit
+pandas
+requests
+beautifulsoup4
+duckduckgo-search
