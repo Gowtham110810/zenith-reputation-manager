@@ -22,7 +22,7 @@ if "smart_queue_rep" not in st.session_state:
         ("Chiropractors", "Chennai", "Trust-based service; local SEO is their primary marketing channel."),
         ("Veterinary Clinics", "Hyderabad", "Pet owners strictly filter by 4.5+ stars on Google Maps."),
         ("Med Spas", "Mumbai", "High-margin aesthetics; negative reviews destroy trust instantly."),
-        ("Boutique Cafes", "Bengaluru", "Massive reliance on Google Maps "near me" searches."),
+        ("Boutique Cafes", "Bengaluru", 'Massive reliance on Google Maps "near me" searches.'),
         ("Real Estate Agencies", "Gurgaon", "High-ticket transactions requiring flawless online reputation.")
     ]
 
